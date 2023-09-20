@@ -6,6 +6,8 @@ My friends and I have a game where we all add to a spotify playlist with a set l
 
 tldr; You won't get 2 tracks in a row added by the same person.
 
+Recently updated to maintain original functionality in addition to the new.
+
 ## Motivation
 After having Spotify play the same 40-50 songs repetitively from my playlist that's well over 1000 songs in total, I was done with their shuffle algorithm. TrueShuffle is a completely front-end based web application that interacts with the Spotify API to bring truly unbiased music shuffling to Spotify. TrueShuffle will shuffle all of your music based on randomness and ensure there is sufficient sparseness so you finally get to hear songs from all over your playlist. This application was built over the span of a few hours, so feel free to fork and improve on the UI/Features.
 
